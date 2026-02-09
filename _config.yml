@@ -15,4 +15,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+header_pages:
+  - about.md
+  - docs/pi-k3s-cluster-guide.md
+
 show_excerpts: true
